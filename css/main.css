@@ -1,0 +1,32 @@
+html, 
+body,
+.container-fluid {
+	height: 100%;
+}
+
+body {
+	background: url(../images/main-bg.jpg) top left no-repeat;
+	background-size: cover;
+} * {
+	text-align: center;
+}
+
+.container-fluid {
+	text-align: center;
+	height: 100%;
+}
+
+.swap-form {
+	background: #fff;
+	height: 100%;
+	width: 400px;
+	margin: 0 auto;
+	display: absolute;
+	padding: 20px;
+}
+
+.display-message {
+	width: 100%;
+	display: block;
+	padding: 10px;
+}
